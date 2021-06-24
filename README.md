@@ -1,3 +1,3 @@
 # FancyBottomBar
 
-(https://twitter.com/i/status/1374068852728864772)
+(https://github.com/KothamireNarendra/FancyBottomBar/blob/master/fancyBottombar.gif)
