@@ -1,3 +1,3 @@
 # FancyBottomBar
 
-(https://github.com/KothamireNarendra/FancyBottomBar/blob/master/fancyBottombar.gif)
+![Fancy Bottom Bar](https://github.com/KothamireNarendra/FancyBottomBar/blob/master/fancyBottombar.gif)
